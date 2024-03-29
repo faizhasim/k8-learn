@@ -3,9 +3,9 @@
 ## Getting Started
 
 
-### Run [./scripts/install.sh](./scripts/install.sh) which will do the following:
+### Run [./scripts/01-init.sh](./scripts/01-init.sh) which will do the following:
 
-    ./scripts/install.sh
+    ./scripts/01-init.sh
 
 1. Create a kind cluster
 2. Install nginx-ingress
